@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+Developer;Distributed+Systems+Enthusiast;Building+Reliable+Systems;Always+Learning+Something+New"/>
 
 <p>
-  <b>Backend Software Engineer • Java • Spring Boot • Distributed Systems</b><br>
+  <b>Software Engineer • Java • Spring Boot • Distributed Systems</b><br>
   WeThinkCode_ Graduate • Momentum × Monkey & River Hackathon 2026 Winner
 </p>
 
@@ -164,25 +164,6 @@ Hackathon-winning AI assistant for life insurance using retrieval augmented gene
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dgmotene&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dgmotene/dgmotene/output/github-contribution-grid-snake.svg"/>
-
-</div>
 
 ---
 
