@@ -63,10 +63,3 @@ Role-aware AI assistant grounded in a client's own policy documents, built and d
 `Node.js` · `Next.js` · `pgvector` · `Docker`
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dgmotene&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmotene&layout=compact&hide_border=true" alt="Top languages" height="150">
-</p>
-
-<p align="center"><i>Open to graduate and junior backend roles · Johannesburg, hybrid or remote</i></p>
