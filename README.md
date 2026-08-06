@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dalton-gm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:daltonmotene@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -19,7 +18,6 @@ I build and operate backend systems, from distributed services that talk over me
 - 🔭 Working on backend and distributed systems in Java and Spring Boot
 - 🌱 Learning cloud properly, working towards AWS certification
 - 🧠 Interested in system design, message-driven architectures and building things that stay reliable in production
-- 📫 Reach me at **daltonmotene@gmail.com**
 
 ---
 
