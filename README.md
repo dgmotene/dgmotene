@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend Software Engineer · Java · Spring Boot · Distributed Systems</b><br>
-  WeThinkCode_ graduate · 🥈 2nd of ~1200 at the Momentum × Monkey &amp; River Hackathon 2026
+  WeThinkCode_ graduate · Momentum × Monkey &amp; River Hackathon 2026 Winner
 </p>
 
 <p align="center">
