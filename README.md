@@ -1,68 +1,197 @@
-<h1 align="center">Hi, I'm Dalton 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Backend Software Engineer · Java · Spring Boot · Distributed Systems</b><br>
-  WeThinkCode_ graduate · Momentum × Monkey &amp; River Hackathon 2026 Winner
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,100:2563EB&text=Dalton&fontSize=60&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlignY=58"/>
+
+# Hi, I'm Dalton 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+Developer;Distributed+Systems+Enthusiast;Building+Reliable+Systems;Always+Learning+Something+New"/>
+
+<p>
+  <b>Backend Software Engineer • Java • Spring Boot • Distributed Systems</b><br>
+  WeThinkCode_ Graduate • Momentum × Monkey & River Hackathon 2026 Winner
 </p>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/dalton-gm">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://www.youtube.com/@CodersDomain">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=dgmotene&style=for-the-badge&color=0ea5e9"/>
 
-### About me
-
-I build and operate backend systems, from distributed services that talk over message queues to APIs and automated deployment pipelines. I like taking a project from a blank repo through to something running, tested and documented well enough that someone else can pick it up. I mentor four students each week as a peer tutor at WeThinkCode_, which keeps me honest about writing code and explanations that other people can actually follow.
-
-- 🔭 Working on backend and distributed systems in Java and Spring Boot
-- 🌱 Learning cloud properly, working towards AWS certification
-- 🧠 Interested in system design, message-driven architectures and building things that stay reliable in production
+</div>
 
 ---
 
-### Tech I work with
+# 👨‍💻 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+```java
+public class Dalton {
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+    String role = "Backend Software Engineer";
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Apache ActiveMQ](https://img.shields.io/badge/ActiveMQ-D22128?style=flat-square&logo=apache&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript"
+    };
+
+    String[] backend = {
+        "Spring Boot",
+        "REST APIs",
+        "Distributed Systems",
+        "RabbitMQ",
+        "ActiveMQ"
+    };
+
+    String[] databases = {
+        "PostgreSQL",
+        "Redis"
+    };
+
+    String[] tools = {
+        "Docker",
+        "GitHub Actions",
+        "Linux",
+        "Maven"
+    };
+
+    String currentFocus =
+        "Building reliable distributed backend systems";
+
+}
+```
+
+I enjoy taking an idea from an empty repository to a production-ready system with clean architecture, automated deployments and solid documentation.
+
+Outside of building software, I mentor WeThinkCode_ students every week as a peer tutor, helping them become better engineers while continually improving my own understanding.
 
 ---
 
-### Featured projects
+# 🚀 Currently
 
-**⚡ LightSched — Distributed Load-Shedding Notification System**
-Five independently deployable services coordinating over REST and Apache ActiveMQ. Publish–subscribe topics for broadcast events, point-to-point queues for alert delivery, so a service can fail and recover without taking the system down. Fully containerised with CI on every commit.
-`Java` · `Spring Boot` · `ActiveMQ` · `Docker` · `Maven`
-
-**🤖 Robot Worlds — Multithreaded Client-Server Game**
-Team project I led, extending an existing Java codebase across four iterations with acceptance tests against a reference server. Owned the CI/CD: GitLab pipeline, Makefile, Dockerfile, release and test jobs. Awarded a distinction.
-`Java` · `Sockets` · `Concurrency` · `GitLab CI` · `Docker`
-
-**🌦️ Weather Buddy — SMS Weather Notification Service**
-A subscription service that delivers forecasts by SMS. Built end to end on my own to learn caching, message queues and automated deployment in one realistic project.
-`Spring Boot` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Twilio`
-
-**💙 Lumina — AI Companion for Life Insurance** (Hackathon, 2nd place)
-Role-aware AI assistant grounded in a client's own policy documents, built and deployed in 18 hours. Access control over sensitive records and retrieval with pgvector.
-`Node.js` · `Next.js` · `pgvector` · `Docker`
+- 🔭 Building backend systems in Java & Spring Boot
+- 🌱 Studying AWS & cloud architecture
+- ⚡ Interested in distributed systems, event-driven architecture and scalability
+- 💬 Always happy to talk about Java, backend engineering and system design
 
 ---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,nodejs,postgres,redis,docker,linux,git,maven,githubactions"/>
+
+</div>
+
+---
+
+# ⭐ Featured Projects
+
+## ⚡ LightSched
+
+Distributed load-shedding notification platform built around microservices communicating via Apache ActiveMQ.
+
+**Tech**
+
+`Java` `Spring Boot` `Docker` `ActiveMQ` `Maven`
+
+---
+
+## 🤖 Robot Worlds
+
+Multithreaded client-server game built in Java.
+
+Led CI/CD implementation, Dockerisation, automated testing and release pipelines.
+
+**Tech**
+
+`Java` `Sockets` `Concurrency` `Docker`
+
+---
+
+## 🌦 Weather Buddy
+
+SMS weather notification platform featuring caching, asynchronous messaging and automated deployment.
+
+**Tech**
+
+`Spring Boot` `RabbitMQ` `Redis` `PostgreSQL`
+
+---
+
+## 💙 Lumina
+
+Hackathon-winning AI assistant for life insurance using retrieval augmented generation and pgvector.
+
+**Tech**
+
+`Node.js`
+`Next.js`
+`Docker`
+`pgvector`
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dgmotene&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmotene&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=dgmotene&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dgmotene&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dgmotene&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dgmotene/dgmotene/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for stopping by!
+
+*"Good software is built twice: first in design, then in code."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563EB,100:0EA5E9"/>
+
+</div>
