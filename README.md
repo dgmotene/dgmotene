@@ -1,156 +1,164 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0EA5E9,100:2563EB&text=Dalton&fontSize=60&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlignY=58"/>
+# DALTON MOTENE
 
-# Hi, I'm Dalton 👋
+### Software Engineer | Backend • Cloud • Applied AI
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Backend+Software+Engineer;Java+%7C+Spring+Boot+Developer;Distributed+Systems+Enthusiast;Building+Reliable+Systems;Always+Learning+Something+New"/>
+Building reliable backend systems, distributed applications and cloud-powered products.
 
-<p>
-  <b>Software Engineer • Java • Spring Boot • Distributed Systems</b><br>
-  WeThinkCode_ Graduate • Momentum × Monkey & River Hackathon 2026 Winner
-</p>
+Johannesburg, South Africa
 
-<p>
-  <a href="https://linkedin.com/in/dalton-gm">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+[LinkedIn](https://linkedin.com/in/dalton-gm) •
+[Portfolio](https://daltonm.co.za) •
+[Email](mailto:daltonmotene@gmail.com) •
+[YouTube](https://www.youtube.com/@DaltonZA)
 
-  <a href="https://www.youtube.com/@DaltonZA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=dgmotene&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-```java
-public class Dalton {
+I'm a graduate software engineer focused on backend development, cloud engineering and applied AI.
 
-    String role = "Backend Software Engineer";
+I enjoy taking ideas from architecture to implementation, building systems that are reliable, maintainable and ready to deploy.
 
-    String[] languages = {
-        "Java",
-        "Python",
-        "JavaScript"
-    };
+- 🎓 **WeThinkCode_** — Software Engineering graduate, NQF Level 6 (95% assessment average).
+- 🏆 **2nd place out of approximately 1,200 applicants** — 2026 national AI hackathon.
+- ☁️ Hands-on experience with AWS serverless architecture, cloud infrastructure and CI/CD.
+- ⚙️ Interested in distributed systems, event-driven architecture and scalable backend services.
+- 🤖 Exploring practical applications of generative AI, RAG and AI-assisted development.
 
-    String[] backend = {
-        "Spring Boot",
-        "REST APIs",
-        "Distributed Systems",
-        "RabbitMQ",
-        "ActiveMQ"
-    };
-
-    String[] databases = {
-        "PostgreSQL",
-        "Redis"
-    };
-
-    String[] tools = {
-        "Docker",
-        "GitHub Actions",
-        "Linux",
-        "Maven"
-    };
-
-    String currentFocus =
-        "Building reliable distributed backend systems";
-
-}
-```
-
-I enjoy taking an idea from an empty repository to a production-ready system with clean architecture, automated deployments and solid documentation.
-
-Outside of building software, I mentor WeThinkCode_ students every week as a peer tutor, helping them become better engineers while continually improving my own understanding.
+Currently developing my skills through AWS cloud training and building production-minded software projects.
 
 ---
 
-# 🚀 Currently
+## Featured Projects
 
-- 🔭 Building backend systems in Java & Spring Boot
-- 🌱 Studying AWS & cloud architecture
-- ⚡ Interested in distributed systems, event-driven architecture and scalability
-- 💬 Always happy to talk about Java, backend engineering and system design
+### 01. TenderReady AI
+**AI-powered procurement assistant for South African SMMEs**
+
+An AI procurement assistant that transforms complex tender documents into actionable insights.
+
+- Upload tender PDFs and receive summaries, requirements checklists and risk flags.
+- Ask questions about tender documents with page-cited answers.
+- Built a serverless document-processing pipeline using AWS Textract and Bedrock.
+- Stores extracted results and processing status in DynamoDB.
+
+`React` `TypeScript` `AWS Lambda` `S3` `Textract` `Bedrock` `DynamoDB` `Cognito`
 
 ---
 
-# 🛠 Tech Stack
+### 02. LightSched
+**Distributed load-shedding notification platform**
+
+A distributed alert system built around independently deployable services.
+
+- Five independently deployable services.
+- REST communication and asynchronous messaging using ActiveMQ.
+- Containerised with Docker.
+- Automated CI on every commit.
+- Documented service architecture and setup.
+
+`Java` `Javalin` `ActiveMQ` `Docker`
+
+---
+
+### 03. Lumina
+**AI companion for Momentum Life Insurance**
+
+Award-winning AI companion developed during a national hackathon.
+
+- Achieved 2nd place out of approximately 1,200 applicants.
+- Built and shipped a full-stack application in 18 hours.
+- Used RAG to ground responses in insurance policy documents.
+- Implemented role-aware access control for sensitive customer records.
+
+`Next.js` `Node.js` `RAG` `Generative AI` `Database`
+
+---
+
+### 04. SmartThumb SA
+**AWS event-driven image processing pipeline**
+
+A serverless image-processing application that automatically generates optimised thumbnails.
+
+- S3 uploads trigger Lambda processing.
+- Validates, orients and resizes images into 300 × 300 JPEG thumbnails.
+- Optional image labelling using Amazon Rekognition.
+- Private S3 buckets, least-privilege IAM and CloudWatch monitoring.
+
+`Python` `AWS Lambda` `S3` `Pillow` `Rekognition` `IAM`
+
+---
+
+### 05. Interview Coach
+**AI-powered verbal interview practice platform**
+
+A verbal-first interview practice application that evaluates technical and behavioural responses.
+
+- Users answer interview questions aloud.
+- AI evaluates answers against question-specific grading rubrics.
+- Measures answer correctness separately from speaking fluency.
+- Analyses filler words, restarts and speaking pace.
+
+`Generative AI` `Speech Processing` `TypeScript`
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | Java, Python, JavaScript, TypeScript, SQL |
+| Backend | Spring Boot, Javalin, Node.js, Express, REST APIs |
+| Architecture | Microservices, Distributed Systems, Event-Driven Architecture |
+| Messaging | ActiveMQ |
+| AWS | Lambda, S3, API Gateway, DynamoDB, Cognito, IAM, Bedrock, Textract, Rekognition, CloudWatch |
+| Cloud & Infrastructure | EC2, ECS, ECR, VPC, ALB, Terraform |
+| DevOps | Docker, GitHub Actions, CodePipeline, CodeBuild, CI/CD |
+| Databases | PostgreSQL, DynamoDB |
+| Frontend | React, Next.js, Tailwind CSS |
+
+---
+
+## Experience & Development
+
+**Peer Tutor — WeThinkCode_ | 2026**
+
+Supporting fellow software engineering students with debugging, programming fundamentals and problem-solving.
+
+**AWS Graduate Cloud Skills Accelerator — Codewrkx | November 2026**
+
+Four-week practical programme covering IAM, Terraform, VPC networking, Docker, ECR, ECS, load balancing and CI/CD.
+
+**AWS re/Start — Praesignis | 2026**
+
+Practical cloud fundamentals and guided AWS labs. Preparing for the AWS Certified Cloud Practitioner examination (CLF-C02).
+
+**Generative AI Course for Software Engineers — WeThinkCode_ | 2026**
+
+Prompt engineering and integrating generative AI tools into software development workflows.
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,nodejs,postgres,redis,docker,linux,git,maven,githubactions"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dgmotene&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmotene&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-# ⭐ Featured Projects
-
-## ⚡ LightSched
-
-Distributed load-shedding notification platform built around microservices communicating via Apache ActiveMQ.
-
-**Tech**
-
-`Java` `Spring Boot` `Docker` `ActiveMQ` `Maven`
-
----
-
-## 🤖 Robot Worlds
-
-Multithreaded client-server game built in Java.
-
-Led CI/CD implementation, Dockerisation, automated testing and release pipelines.
-
-**Tech**
-
-`Java` `Sockets` `Concurrency` `Docker`
-
----
-
-## 🌦 Weather Buddy
-
-SMS weather notification platform featuring caching, asynchronous messaging and automated deployment.
-
-**Tech**
-
-`Spring Boot` `RabbitMQ` `Redis` `PostgreSQL`
-
----
-
-## 💙 Lumina
-
-Hackathon-winning AI assistant for life insurance using retrieval augmented generation and pgvector.
-
-**Tech**
-
-`Node.js`
-`Next.js`
-`Docker`
-`pgvector`
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dgmotene&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgmotene&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=dgmotene&theme=tokyonight&hide_border=true"/>
 
@@ -158,21 +166,18 @@ Hackathon-winning AI assistant for life insurance using retrieval augmented gene
 
 ---
 
-<div align="center">
+## Let's Connect
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dgmotene&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
----
+I'm always interested in discussing backend engineering, cloud architecture, distributed systems and opportunities to build meaningful software.
 
 <div align="center">
 
-### Thanks for stopping by!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dalton-gm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://daltonm.co.za)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daltonmotene@gmail.com)
 
-*"Good software is built twice: first in design, then in code."*
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563EB,100:0EA5E9"/>
+*"Build it. Understand it. Make it better."*
 
 </div>
